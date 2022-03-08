@@ -1,4 +1,0 @@
-jop:
-- title
--description
--
